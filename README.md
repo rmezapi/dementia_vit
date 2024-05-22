@@ -9,4 +9,4 @@ This project was intended to test the limits of the ViT on a tough dementia data
 
 I modify the code presented in the video and tune all parameters to optimize performance using mostly the same libraries and tools. This is a practice project for myself as I return to coding/designing ML models after dedicating time to AI/ML theory (model architectures, transfer learning)
 
-After hyperparameter tuning, the highest testing accuracy achieved is 63% using a learning rate of 2e-5, a weight decay of 0.001, and iterating over 5 epochs.
+After hyperparameter tuning, the highest testing accuracy achieved is 63% using a learning rate of 2e-5, a weight decay of 0.001, batch size of 16, and iterating over 5 epochs.
