@@ -1,7 +1,13 @@
 # dementia_vit
 
-This project was intended to test the limits of the ViT on a tough dementia dataset. The data used can be found on HuggingFace at: https://huggingface.co/datasets/Falah/Alzheimer_MRI. The project follows closely the following tutorials: 
+This project was intended to test the limits of the ViT on a tough dementia dataset. The data used can be found on HuggingFace at: https://huggingface.co/datasets/Falah/Alzheimer_MRI. The dataset has 4 classes:
 
+*    0: mild_demented
+*    1: moderate_demented
+*    2: non_demented
+*    3: very_mild_demented
+
+The project follows closely the following tutorials: 
 
 *   https://www.youtube.com/watch?v=r88L_yLJ4CE&ab_channel=code_your_own_AI
 *   https://www.youtube.com/watch?v=qU7wO02urYU&ab_channel=JamesBriggs  
