@@ -17,6 +17,7 @@ I modify the code presented in the video and tune all parameters to optimize per
 
 After hyperparameter tuning, the highest testing accuracy achieved is 66% using a learning rate of 2e-5, a weight decay of 0.001, batch size of 8, and iterating over 5 epochs.
 
+<img width="546" alt="image" src="https://github.com/rmezapi/dementia_vit/assets/69809420/e55834d7-be90-42c3-8749-7a592b2e7667">
 
 <img width="430" alt="image" src="https://github.com/rmezapi/dementia_vit/assets/69809420/6ba29c87-ab72-4312-b93d-56653d708f1f">
 
